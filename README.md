@@ -30,12 +30,12 @@ This project is modular, with clean separation into `Grid` and `Simulation` clas
 
 ---
 
-##🚀 Getting Started
-###1️⃣ Clone the repo
+## 🚀 Getting Started
+### 1️⃣ Clone the repo
 git clone https://github.com/shivendraghb/Game_of_Life.git
 cd Game_of_Life
 
-###2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 
 Install raylib
 
@@ -46,7 +46,7 @@ Or build from source if needed
 
 Ensure you have g++ / MinGW (Windows) or g++/clang (Linux/macOS)
 
-###3️⃣ Build & Run
+### 3️⃣ Build & Run
 
 🔹 Linux / macOS
 
@@ -59,7 +59,7 @@ make
 g++ src/code.cpp src/grid.cpp src/simulation.cpp -o build/game.exe -std=c++17 -I"C:\raylib\raylib-5.5_win64_mingw-w64\include" -L"C:\raylib\raylib-5.5_win64_mingw-w64\lib" -lraylib -lopengl32 -lgdi32 -lwinmm
 .\build\game.exe
 
-##4️⃣ Controls
+## 4️⃣ Controls
 
 Once running, you can interact with the simulation using:
 
