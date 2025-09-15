@@ -46,7 +46,7 @@ code.cpp → game loop and user input
 
 🚀 Getting Started
 1️⃣ Clone the repo
-git clone https://github.com/your-username/GameOfLife.git
+git clone https://github.com/shivendraghb/Game_Of_Life.git
 cd GameOfLife
 
 2️⃣ Install dependencies
